@@ -6,7 +6,7 @@ const Navbar = () => {
 
   return (
     <header>
-        <h1>Marolio Online</h1>
+        <h1>Garavano Online</h1>
 
     <nav>
         <ul>
